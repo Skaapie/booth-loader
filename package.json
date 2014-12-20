@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Skaapie/booth-loader/issues"
   },
-  "homepage": "https://github.com/Skaapie/booth-loader"
+  "homepage": "https://github.com/Skaapie/booth-loader",
+  "dependencies": {
+    "request": "^2.51.0"
+  }
 }
